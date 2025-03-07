@@ -1,5 +1,3 @@
-package hw3;
-
 public class Board {
 	private char[][] board;
 	private char currentPlayer;
